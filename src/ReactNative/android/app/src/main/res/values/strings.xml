@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trash2Cash</string>
+    <!-- <string name="facebook_app_id">985203029060782</string>
+<string name="fb_login_protocol_scheme">fb985203029060782</string> -->
+    <string name="facebook_app_id">370758168340260</string>
+<string name="fb_login_protocol_scheme">fb370758168340260</string>
+<string name="facebook_client_token">ad4ad1ea1da5d55e9eeb570881c1fcad</string>
+
+
+<!-- <string name="facebook_app_id">1234</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">56789</string> -->
+
+
+
+
+</resources>
